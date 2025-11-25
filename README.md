@@ -5,14 +5,6 @@ I’m passionate about **DevOps and full-stack development** — and I love lear
 
 ---
 
-## 💼 What I Do / My Background
-
-- I work with **AWS EKS / Kubernetes + Helm + ArgoCD** to deploy and manage scalable applications in production-grade environments.  
-- I’ve recently been working on projects involving **Sentry + ClickHouse + Redis** integrations for scalable error tracking and observability.  
-- I also enjoy building backend services using **Python / FastAPI**, and writing tools using the **OpenAI API** (for example, see my `commit-summary` repo).  
-- On the front-end side, I’ve used **React + styled-components** and **Vue** in some of my personal projects.  
-
-
 ## 🛠️ Skills & Technologies
 
 - **Languages:** Python, JavaScript / TypeScript, Bash  
