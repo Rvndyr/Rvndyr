@@ -12,22 +12,6 @@ I’m passionate about **DevOps and full-stack development** — and I love lear
 - I also enjoy building backend services using **Python / FastAPI**, and writing tools using the **OpenAI API** (for example, see my `commit-summary` repo).  
 - On the front-end side, I’ve used **React + styled-components** and **Vue** in some of my personal projects.  
 
----
-
-## 🚀 What I’m Working On
-
-Here are a few of the projects I’m most proud of:
-
-| Project | What it does / Tech |
-|--------|---------------------|
-| **MultiMon-frontend** | A Vue-based UI to watch multiple Twitch streams at once (Twitch API) |
-| **MultiMon-Backend** | A Python backend powering the frontend — handles Twitch API integration, authentication, etc. |
-| **commit-summary** | A Python script + GitHub Action that summarizes your weekly GitHub activity and posts it to a Markdown file — uses the **OpenAI API** |
-| **rvndyr.github.io** | My personal portfolio site built with TypeScript, showcasing my projects, blog posts, and background |
-
-> _These repos are pinned above — feel free to click through, check them out, and explore the code!_
-
----
 
 ## 🛠️ Skills & Technologies
 
@@ -35,14 +19,6 @@ Here are a few of the projects I’m most proud of:
 - **Backend / DevOps:** FastAPI, AWS, Kubernetes, Helm, ArgoCD, Docker  
 - **Frontend / Web:** React (styled-components), Vue, HTML, CSS  
 - **Tools / Other:** Git, GitHub Actions, Jenkins, Infrastructure as Code  
-
----
-
-## 🎯 What I’m Looking For / What Interests Me
-
-- I’m always open to **collaborating on open-source projects** — especially in the DevOps space.  
-- I love learning **new languages / frameworks / tooling**, and I value **clean, maintainable code** and **well-documented projects**.  
-- Interested in building tools to streamline **development workflows, observability, and automation**.  
 
 ---
 
